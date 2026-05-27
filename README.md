@@ -1,2 +1,2 @@
-## git innitpracticig git comands 
+### git innitpracticig git comands 
 hello
